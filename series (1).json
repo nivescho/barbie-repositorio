@@ -1,0 +1,218 @@
+[
+  {
+    "id": "película 1",
+    "title": "Barbie y las fashionistas",
+    "description": "La sinopsis era algo simple, te unirás a las muñecas Barbie Fashionistas mientras hacen lo que mejor saben hacer para lucir fabulosas con las fashionistas Artsy, Cute, Glam, Sassy, ​​Sporty y Sweetie.",
+    "director": "Mattel",
+    "release_date": "2010",
+    "img": "https://media.fstatic.com/8FI3zAC1EHeJ3zQSHXW-y9mob2Y=/210x312/smart/filters:format(webp)/media/movies/covers/2013/01/5141f0e9c699b89707c46d289202b45a.jpg",
+    "characters": [
+      {
+        "id": "1",
+        "name": "Barbie",
+        "img": "",
+        "gender": "female",
+        "age": "16",
+        "eye_color": "blue",
+        "hair_color": "blond",
+        "specie": "Human"
+      },
+      {
+        "id": "2",
+        "name": "Ken",
+        "img": "",
+        "gender": "Male",
+        "age": "17",
+        "eye_color": "blue",
+        "hair_color": "blond",
+        "specie": "Human"
+      },
+      {
+        "id": "3",
+        "name": "Raquel",
+        "img": "",
+        "gender": "female",
+        "age": "30",
+        "eye_color": "green",
+        "hair_color": "lila",
+        "specie": "Human"
+      }
+    ]
+  },
+  {
+    "id": "película 2",
+    "title": "Barbie lifein the dream house",
+    "description": "La serie está ambientada en una versión ficticia de Malibú, California, donde todos sus habitantes son muñecos. Las muñecas se comportan como humanos, aunque varios chistes del programa se basan en su naturaleza de muñecas. La serie se centra en la vida de Barbie, sus amigos, sus hermanos, su novio Ken y varias mascotas. La serie está estilizada como un reality show simulado que presenta confesionarios de los personajes entre escenas. El programa se basa en gran medida en el humor slapstick y hace muchas referencias satíricas y de autoparodia a la línea de muñecas Barbie.",
+    "director": "Mattel",
+    "release_date": "2012",
+    "characters": [
+      {
+        "id": "4",
+        "name": "Barbie",
+        "img": "",
+        "gender": "female",
+        "age": "16",
+        "eye_color": "blue",
+        "hair_color": "blond",
+        "specie": "Human"
+      },
+      {
+        "id": "5",
+        "name": "Ken",
+        "img": "",
+        "gender": "Male",
+        "age": "17",
+        "eye_color": "blue",
+        "hair_color": "blond",
+        "specie": "Human"
+      },
+      {
+        "id": "6",
+        "name": "Raquel",
+        "img": "",
+        "gender": "female",
+        "age": "30",
+        "eye_color": "green",
+        "hair_color": "lila",
+        "specie": "Human"
+      }
+    ]
+  },
+  {
+    "id": "película ",
+    "title": "Barbie dreamtopia",
+    "description": "Barbie Dreamtopia es una serie basada en el mundo de Dreamtopia, protagonizada por Barbie y su hermana Chelsea. ",
+    "director": " Mattel",
+    "release_date": " 2017",
+    "characters": [
+      {
+        "id": " ",
+        "name": " Barbie ",
+        "img": " ",
+        "gender": " female",
+        "age": "16 ",
+        "eye_color": " blue",
+        "hair_color": " blond ",
+        "specie": "Human"
+      }, 
+      {
+        "id": " ",
+        "name": "Otto",
+        "img": " ",
+        "gender": " Male",
+        "age": "10",
+        "eye_color": " blue",
+        "hair_color": " brown",
+        "specie": "Human"
+      },
+      {
+        "id": " ",
+        "name": " Chelsea",
+        "img": " ",
+        "gender": " female ",
+        "age": " 10",
+        "eye_color": " green",
+        "hair_color": " bloond",
+        "specie": "Human"
+      }
+    ]
+  },
+  {
+    "id": "película ",
+    "title": "Barbie dreamhouse adventure ",
+    "description": "Barbie Dreamhouse Adventures (también llamado Barbie: Dreamhouse Adventures o Dreamhouse Adventures) y Barbie Dreamhouse Adventures: GO team Roberts! es una nueva serie de películas de Mattel, propietaria de Barbie, para complementar la nueva serie de Barbie: Dreamtopia y se centra en Barbie y sus hermanas: Skipper, Stacie y Chelsea.",
+    "director": " Mattel",
+    "release_date": " 2018",
+    "characters": [
+      {
+        "id": " ",
+        "name": " Barbie ",
+        "img": " ",
+        "gender": " female",
+        "age": "16 ",
+        "eye_color": " blue",
+        "hair_color": " blond ",
+        "specie": "Human"
+      },
+      {
+        "id": " ",
+        "name": "Chelsea",
+        "img": " ",
+        "gender": " Male",
+        "age": "10",
+        "eye_color": " blue",
+        "hair_color": " brown",
+        "specie": "Human"
+      }, 
+      {
+        "id": " ",
+        "name": " Skipper",
+        "img": " ",
+        "gender": " female ",
+        "age": " 10",
+        "eye_color": " green",
+        "hair_color": " bloond",
+        "specie": "Human"
+      }
+    ]
+  },
+  {
+    "id": "película 1",
+    "title": "Barbie it thakes two",
+    "description": "Barbie: It Takes Two [3] [4] es una serie de televisión infantil de comedia de aventuras animada por CGI que sirve como adaptación televisiva y está basada en la película para televisión en streaming de 2021 , Barbie: Big City, Big Dreams .",
+    "director": " Mattel",
+    "release_date": " 2022",
+    "characters": [
+      {
+        "id": " ",
+        "name": " Barbie 'mallibu'",
+        "img": " ",
+        "gender": " female",
+        "age": "16 ",
+        "eye_color": " blue",
+        "hair_color": " blond ",
+        "specie": "Human"
+      },
+      
+      {
+        "id": " ",
+        "name": " Barbie 'brokylin'",
+        "img": " ",
+        "gender": " Male",
+        "age": "10",
+        "eye_color": " blue",
+        "hair_color": " brown",
+        "specie": "Human"
+      }
+    ]
+  },
+  {
+    "id": "película ",
+    "title": "Barbie un toque de magia",
+    "description": "Barbie Malibú y Barbie Brooklyn descubren un bebé pegaso en la playa que les cumple las fantasías más increíbles. Mientras averiguan cómo llevarla devuelta a casa, intentan protegerla de Rocki la glifo, una criatura fantástica que ha seguido a Peggy.",
+    "director": " Mattel",
+    "release_date": " 2022",
+    "characters": [
+      {
+        "id": " ",
+        "name": " Barbie 'mallibu'",
+        "img": " ",
+        "gender": " female",
+        "age": "16 ",
+        "eye_color": " blue",
+        "hair_color": " blond ",
+        "specie": "Human"
+      },
+      {
+        "id": " ",
+        "name": " Barbie 'brokylin'",
+        "img": " ",
+        "gender": " Male",
+        "age": "10",
+        "eye_color": " blue",
+        "hair_color": " brown",
+        "specie": "Human"
+      }
+    ]
+  }      
+]
